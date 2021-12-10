@@ -1,2 +1,3 @@
 # hello-world
-Practice on GitHub
+Practice on GitHub.
+Learning more about GitHub
